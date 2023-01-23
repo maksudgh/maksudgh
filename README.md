@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Maksudur Rahman
 - 👀 I’m interested in Backend coding
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently working in Laravel
 - 📫 mail me at maksudgh@gmail.com
 
 <!---
